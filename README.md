@@ -24,5 +24,3 @@ To validate the functionality, reliability, and limitations of a voice-based des
 - pyautogui
 - pywhatkit
 - OS & Webbrowser modules
-
-## 📂 Repository Structure
